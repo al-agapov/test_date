@@ -1,0 +1,22 @@
+.alert-wrap{
+    margin: 20px 0 0 0;
+}
+
+.btn-wrap{
+    margin: 24px 0 0 0;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.glyphicon-cog{
+    width: 15px;
+    display: block;
+    margin: 0 auto;
+}
+
+#w0-filters{
+    display:none;
+}
